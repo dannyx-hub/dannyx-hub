@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on:
 - **Project-Shelter** - tool to optimize and protect data from your database
-- **LecturesAPI** - restapi in flask for Event Calendar project
+- **EventAPI** - restapi in flask for Event Calendar project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
