@@ -3,7 +3,8 @@
 
 🔭 I’m currently working on:
 - **Project-Shelter** - tool to optimize and protect data from your database
-- **EventAPI** - restapi in flask for Event Calendar project
+- **EventAPI** - restapi written in flask to event-calendar, EventWeb, EventAPP projects
+- **EventWeb** - Web Application to manage all events in one calendar (WebApp written in angular)
 
 
 <h3 align="left">Languages and Tools:</h3>
