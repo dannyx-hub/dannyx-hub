@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
-<h3 align="center">A passionate python developer</h3>
+<h3 align="center">python developer</h3>
 
 🔭 I’m currently working on:
 - **Project-Shelter** - tool to optimize and protect data from your database
