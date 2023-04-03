@@ -2,9 +2,7 @@
 <h3 align="center">python developer</h3>
 
 🔭 I’m currently working on:
-- **Project-Shelter** - tool to optimize and protect data from your database
-- **EventAPI** - restapi written in flask to event-calendar, EventWeb, EventAPP projects
-- **EventWeb** - Web Application to manage all events in one calendar (WebApp written in angular)
+- **Spartan** - Python-based port scanner with services detection
 
 
 <h3 align="left">Languages and Tools:</h3>
